@@ -58,21 +58,5 @@ sudo chmod +x plsrunmeiamnotmalwarefr
 ```
 15. menjalankan program tersebut
 ```
-./ plsrunmeiamnotmalwarefr
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+./ plsrunmeiamnotmalwaref
 ```
