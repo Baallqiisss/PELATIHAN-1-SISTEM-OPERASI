@@ -24,9 +24,9 @@ unzip MAMAMIA.zip -d singing_tutorials
 ```
 cd singing_tutorials
 ```
-6. Menampilkan list file 
+6. Menampilkan list atribut dan file tersembunyi 
 ```
-ls -l
+ls -la
 ```
 7. Cari file NBAYoungboy
 ```
