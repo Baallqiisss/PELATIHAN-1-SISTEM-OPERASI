@@ -24,6 +24,10 @@ unzip MAMAMIA.zip -d singing_tutorials
 ```
 cd singing_tutorials
 ```
+tambahan menampilkan list file
+```
+ls
+```
 6. Menampilkan list atribut dan file tersembunyi 
 ```
 ls -la
